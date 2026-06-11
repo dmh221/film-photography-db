@@ -1,11 +1,11 @@
 lab_name,city,state,country,website,status
-La Placita Analogica,Béccar,Buenos Aires,Argentina,https://www.instagram.com/laplacitaanalogica,active
 Buenos Aires Color,Buenos Aires,Buenos Aires,Argentina,https://www.buenosairescolor.com.ar,active
 C41 Photo,Buenos Aires,Buenos Aires,Argentina,https://www.c41.com.ar,active
 Labo Los Alos,Buenos Aires,Buenos Aires,Argentina,https://www.instagram.com/labolosalos,active
 Luz Roja Film Lab,Buenos Aires,Buenos Aires,Argentina,https://luzrojafilmlab.com.ar/,active
 TOKYO Photo Lab,Buenos Aires,Buenos Aires,Argentina,http://www.tokyoshop.com.ar,active
 Turista Film Club,Buenos Aires,Buenos Aires,Argentina,https://www.turistafilmclub.com/,active
+La Placita Analogica,Béccar,Buenos Aires,Argentina,https://www.instagram.com/laplacitaanalogica,active
 Estudio Del Bajo,Rosario,Santa Fe,Argentina,https://www.instagram.com/estudiodelbajo,unverified
 Box Photo Laboratory Yerevan,Yerevan,,Armenia,https://www.instagram.com/boxphotolab,unverified
 Karmir Film Lab,Yerevan,,Armenia,https://www.karmir.film,unverified
@@ -83,8 +83,8 @@ Memento Film Lab,Toronto,ON,Canada,http://mementofilmlab.com,active
 Toronto Image Works,Toronto,ON,Canada,https://torontoimageworks.com,active
 Borealis Laboratoire Photo Inc,Montreal,QC,Canada,https://borealislab.qc.ca,active
 Gosselin Photo,Montreal,QC,Canada,https://gosselinphoto.ca,active
-Le Studio Argentique,Montréal,QC,Canada,http://www.studioargentique.ca,unverified
 Montréal Analogue,Montreal,QC,Canada,http://mtlanalogue.com,unverified
+Le Studio Argentique,Montréal,QC,Canada,http://www.studioargentique.ca,unverified
 Hánimastudio,Providencia,Región Metropolitana,Chile,http://www.hanimastudio.cl,unverified
 Empty Club,Santiago,Región Metropolitana,Chile,https://www.instagram.com/emptyclub.cl,active
 Laboratorio Fotográfico JPF,Santiago,Región Metropolitana,Chile,http://www.laboratoriojpf.cl,active
@@ -129,6 +129,9 @@ Pro Image Service,Paris,,France,https://proimageservice.com,active
 Photolix – Lyon,Lyon,Auvergne-Rhône-Alpes,France,https://shop.atelier-photolix.fr/labo-photo-lyon,active
 Photoboutik 55,Strasbourg,Grand Est,France,https://www.photoboutik.fr,active
 Photolix – Lille,Lille,Hauts-de-France,France,https://shop.atelier-photolix.fr,active
+Chroma Films,Bordeaux,Nouvelle-Aquitaine,France,http://www.chroma-films.com,active
+Photo Signe Des Temps,Toulouse,Occitanie,France,https://signedestemps.com,active
+OLAB Photo,Marseille,Provence-Alpes-Côte d'Azur,France,https://www.olabphoto.com,active
 dupon,Paris,Île-de-France,France,https://dupon.com/,active
 Labo Central,Paris,Île-de-France,France,https://www.labo-central.fr,active
 Laboratoire Photographique Argentique (L'Atelier Publimod),Paris,Île-de-France,France,https://atelierpublimod.fr,active
@@ -145,9 +148,6 @@ Reportage Image Boutique,Paris,Île-de-France,France,https://reportage-image.com
 Studio Hi,Paris,Île-de-France,France,http://www.studiohi-paris.com,active
 Sunbath Film-Lab,Paris,Île-de-France,France,https://sunbath-filmlab.com,active
 Zoé-Photo Alésia,Paris,Île-de-France,France,https://laboratoire-zoe-photo.fr,active
-Chroma Films,Bordeaux,Nouvelle-Aquitaine,France,http://www.chroma-films.com,active
-Photo Signe Des Temps,Toulouse,Occitanie,France,https://signedestemps.com,active
-OLAB Photo,Marseille,Provence-Alpes-Côte d'Azur,France,https://www.olabphoto.com,active
 Magnolia Film Lab,Tbilisi,,Georgia,https://magnoliafilmlab.com,unverified
 Qwerty Film Lab,Tbilisi,,Georgia,https://www.instagram.com/qwerty.filmlab,unverified
 bilderfürst fürth,Fürth,,Germany,https://www.photostudio.de,unverified
@@ -251,7 +251,6 @@ Fotograbas,Vilnius,,Lithuania,https://fotograbas.lt,unverified
 The Black Hole,Johor Bahru,Johor,Malaysia,https://theblackholelab.com,active
 Darkroom8,Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,https://www.darkroom8malaysia.com/,active
 FotoSíntesis Laboratorio,Ciudad de México,CDMX,Mexico,,unverified
-Ático Film Lab,Mexico City,CDMX,Mexico,https://www.instagram.com/aticofilmlab,active
 Club x Foto Hércules,Mexico City,CDMX,Mexico,https://www.fotohercules.com,active
 Dichroic Lab,Mexico City,CDMX,Mexico,https://www.instagram.com/dichroicfilmlab,active
 Foto Hércules,Mexico City,CDMX,Mexico,https://www.fotohercules.com,active
@@ -259,6 +258,7 @@ Fotocelda Lab,Mexico City,CDMX,Mexico,https://www.instagram.com/fotoceldalab,act
 LAB TANK,Mexico City,CDMX,Mexico,https://www.instagram.com/lab_tank,active
 Mexicana Análoga,Mexico City,CDMX,Mexico,https://www.instagram.com/mexicana.analoga,active
 Nightmares In Film,Mexico City,CDMX,Mexico,https://www.instagram.com/nightmares_in_film/,active
+Ático Film Lab,Mexico City,CDMX,Mexico,https://www.instagram.com/aticofilmlab,active
 Papigochi Film Lab,Chihuahua,Chihuahua,Mexico,https://www.instagram.com/papigochilab,unverified
 Máquina Fotográfica FilmLab,Ciudad Juárez,Chihuahua,Mexico,https://www.facebook.com/colectivomaquinafotografica/,unverified
 Serendipia Café,Mexico City,Cuauhtémoc,Mexico,https://www.instagram.com/serendipiacafenol,unverified
@@ -396,8 +396,8 @@ Space cat lab,Bangkok,Bangkok,Thailand,https://www.facebook.com/spacecatbkk,acti
 Sweet Film Bar,Bangkok,Bangkok,Thailand,https://www.instagram.com/sweetfilmbar,active
 What The Film Lab,Bangkok,Bangkok,Thailand,https://www.instagram.com/whatthefilmlab/,active
 Fotograbia,Antalya,,Turkey,http://www.fotograbia.com,unverified
-Rıfat Tunç Fotoğrafçılık,İstanbul,,Turkey,http://tuncfoto.com,unverified
 Şeftali Analog,Istanbul,,Turkey,https://www.instagram.com/seftalianalog,unverified
+Rıfat Tunç Fotoğrafçılık,İstanbul,,Turkey,http://tuncfoto.com,unverified
 1885 Film Lab & Studio,İzmir,,Turkey,https://www.instagram.com/1885filmlabstudio,unverified
 Fotoğraf Fabrikasi,Istanbul,Beyoğlu,Turkey,https://www.instagram.com/fotograffabrika,unverified
 1/8 lab,Kyiv,,Ukraine,https://www.instagram.com/odnavosma,unverified
@@ -746,12 +746,12 @@ Film Developing Co.,Eau Claire,WI,USA,https://filmdeveloping.co,unverified
 Sharp Photo & Portrait,Eau Claire,WI,USA,https://sharpphoto.net,unverified
 The Camera Company – Eastside,Madison,WI,USA,http://www.cameracompany.com,unverified
 The Camera Company – Westside,Madison,WI,USA,http://www.cameracompany.com,unverified
-AEG Lab,Hà Nội,,Vietnam,https://www.facebook.com/AegLab,unverified
-LLab Giảng Võ,Hà Nội,,Vietnam,https://www.instagram.com/llabgiangvo,unverified
-Nadar Photo Club,Hà Nội,,Vietnam,https://www.facebook.com/nadar.photo.club02,unverified
 Croplab Hanoi,Hanoi,,Vietnam,https://croplab.vn,unverified
 Croplab,Ho Chi Minh City,,Vietnam,https://croplab.vn,unverified
 Llab,Ho Chi Minh City,,Vietnam,https://www.instagram.com/llabgiangvo/,unverified
 LLab Huế,Huế,,Vietnam,https://www.instagram.com/llabgiangvo,unverified
+AEG Lab,Hà Nội,,Vietnam,https://www.facebook.com/AegLab,unverified
+LLab Giảng Võ,Hà Nội,,Vietnam,https://www.instagram.com/llabgiangvo,unverified
+Nadar Photo Club,Hà Nội,,Vietnam,https://www.facebook.com/nadar.photo.club02,unverified
 Cinephile FilmLab,Đà Lạt,,Vietnam,https://www.facebook.com/cinephilefilmlabdalat,unverified
 Croplab Da Lat,Da Lat,Lam Dong,Vietnam,https://croplab.vn,unverified

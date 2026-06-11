@@ -10,7 +10,7 @@ Reference data for film photography: development labs, film stocks, and camera b
 | [`data/film_stocks.csv`](data/film_stocks.csv) | 510 | Film stocks (manufacturer, ISO, format) |
 | [`data/camera_bodies.csv`](data/camera_bodies.csv) | 1140 | Film camera bodies |
 
-Every file is UTF-8 CSV, grouped by manufacturer (or by country, for labs).
+Every file is UTF-8 CSV, sorted case-insensitively by manufacturer then a secondary key (labs sort by country first). CI enforces the ordering on every change.
 
 ## Contributing
 

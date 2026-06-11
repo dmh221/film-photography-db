@@ -32,22 +32,30 @@ const specs = [
     file: 'data/film_labs.csv',
     columns: ['lab_name', 'city', 'state', 'country', 'website', 'status'],
     key: ['lab_name', 'city', 'country'],
+    sort: ['country', 'state', 'city', 'lab_name'],
     enums: { status: ['active', 'closed', 'unverified'] },
   },
   {
     file: 'data/film_stocks.csv',
     columns: ['manufacturer', 'film_name', 'iso', 'format'],
     key: ['manufacturer', 'film_name', 'format'],
+    sort: ['manufacturer', 'film_name'],
   },
   {
     file: 'data/camera_bodies.csv',
     columns: ['manufacturer', 'model', 'format', 'camera_type', 'mount', 'lens_type', 'fixed_lens_name'],
     key: ['manufacturer', 'model'],
+    sort: ['manufacturer', 'model'],
   },
 ];
 
 let errors = 0;
 const fail = (m) => { console.error('  ✗ ' + m); errors++; };
+
+// Case-insensitive, code-point comparison. Deterministic across Node versions
+// (localeCompare is not), so a file sorted locally validates identically in CI.
+const ciCmp = (a, b) => { const x = (a || '').toLowerCase(), y = (b || '').toLowerCase(); return x < y ? -1 : x > y ? 1 : 0; };
+const cmpKey = (a, b, idx, keys) => { for (const k of keys) { const c = ciCmp(a[idx[k]], b[idx[k]]); if (c) return c; } return 0; };
 
 for (const spec of specs) {
   console.log(`\n${spec.file}`);
@@ -66,6 +74,7 @@ for (const spec of specs) {
   const idx = Object.fromEntries(spec.columns.map((c, i) => [c, i]));
   const seen = new Map();
   let count = 0;
+  let prevRow = null, prevLine = 0;
 
   for (let r = 1; r < rows.length; r++) {
     const row = rows[r];
@@ -88,6 +97,12 @@ for (const spec of specs) {
     const k = spec.key.map((f) => (row[idx[f]] || '').trim()).join(' | ');
     if (seen.has(k)) fail(`line ${line}: duplicate of line ${seen.get(k)} — ${k}`);
     else seen.set(k, line);
+    // Canonical order: case-insensitive by the spec's sort key.
+    if (prevRow && cmpKey(prevRow, row, idx, spec.sort) > 0) {
+      const here = spec.sort.map((f) => row[idx[f]]).join(' / ');
+      fail(`line ${line}: out of order — "${here}" should sort before line ${prevLine} (case-insensitive ${spec.sort.join(' → ')})`);
+    }
+    prevRow = row; prevLine = line;
   }
 
   if (errors === before) console.log(`  ✓ ${count} rows OK`);
