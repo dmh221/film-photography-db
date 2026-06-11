@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Phaos app
+    url: https://phaos.app
+    about: The film photography app this data powers.

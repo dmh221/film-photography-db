@@ -1,0 +1,49 @@
+name: Add or fix a catalog entry
+description: Suggest a new film lab, film stock, or camera — or fix an existing one.
+title: "[entry]: "
+labels: ["contribution"]
+body:
+  - type: dropdown
+    id: catalog
+    attributes:
+      label: Which catalog?
+      options:
+        - Film lab
+        - Film stock
+        - Camera body
+    validations:
+      required: true
+  - type: dropdown
+    id: change
+    attributes:
+      label: Add or fix?
+      options:
+        - Add a new entry
+        - Fix an existing entry
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: |
+        Give us the fields for your catalog (see CONTRIBUTING.md for formats):
+        • Lab — name, city, state/region, country, website, status (active/closed/unverified)
+        • Film stock — manufacturer, film name, ISO, format (35mm / 120 / 4x5 …)
+        • Camera — manufacturer, model, format, type, mount, lens type, fixed lens name
+      placeholder: |
+        Lab: Mori Film Lab, Antwerp, Flemish Region, Belgium, https://morifilmlab.com, active
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source (optional)
+      description: A link that confirms the details — website, listing, article.
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I checked this entry isn't already in the CSV.
+          required: true

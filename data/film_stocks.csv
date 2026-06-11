@@ -1,0 +1,511 @@
+manufacturer,film_name,iso,format
+ADOX,CHS 100 II,100,120
+ADOX,CHS 100 II,100,35mm
+ADOX,CHS 100 II,100,4x5
+ADOX,CHS 100 II,100,8x10
+ADOX,CMS 20 II,20,120
+ADOX,CMS 20 II,20,35mm
+ADOX,CMS 20 II Pro,20,35mm
+ADOX,Color Mission 200,200,35mm
+ADOX,Color Mission Helios,3,35mm
+ADOX,Color Mission Helios,3,4x5
+ADOX,HR-50,50,120
+ADOX,HR-50,50,35mm
+ADOX,Scala 50,50,120
+ADOX,Scala 50,50,35mm
+ADOX,Silvermax 100,100,35mm
+Agfa,APX 25,25,35mm
+Agfa,CT Precisa 100,100,35mm
+Agfa,Copex Rapid,50,120
+Agfa,Copex Rapid,50,35mm
+Agfa,Optima 100,100,35mm
+Agfa,Optima 200,200,35mm
+Agfa,Optima 400,400,35mm
+Agfa,Scala 200x,200,35mm
+Agfa,Ultra 100,100,35mm
+Agfa,Ultra 50,50,35mm
+Agfa,Vista 200,200,35mm
+Agfa,Vista 400,400,35mm
+AgfaPhoto,APX 100,100,120
+AgfaPhoto,APX 100,100,35mm
+AgfaPhoto,APX 400,400,120
+AgfaPhoto,APX 400,400,35mm
+AgfaPhoto,Color 400,400,35mm
+Argenti,ARF+ Reporter Film Plus,400,35mm
+Argenti,Nanotomic X,32,35mm
+Argenti,Pan-X,100,35mm
+Argenti,Scale-X,100,35mm
+Arista,EDU Ultra 100,100,120
+Arista,EDU Ultra 100,100,35mm
+Arista,EDU Ultra 100,100,4x5
+Arista,EDU Ultra 200,200,120
+Arista,EDU Ultra 200,200,35mm
+Arista,EDU Ultra 400,400,120
+Arista,EDU Ultra 400,400,35mm
+Arista,EDU Ultra 400,400,4x5
+Bergger,Pancro 400,400,120
+Bergger,Pancro 400,400,35mm
+Bergger,Pancro 400,400,4x5
+Bergger,Pancro 400,400,5x7
+Bergger,Pancro 400,400,8x10
+Bergger,Pancro 400,400,11x14
+CatLABS,X Film 320,320,35mm
+CatLABS,X Film 320 Pro,320,120
+CatLABS,X Film 320 Pro,320,35mm
+CatLABS,X Film 80,80,120
+CatLABS,X Film 80,80,4x5
+CatLABS,X Film 80,80,8x10
+CineStill,400D,400,120
+CineStill,400D,400,35mm
+CineStill,400D,400,4x5
+CineStill,50D,50,120
+CineStill,50D,50,35mm
+CineStill,50D,50,4x5
+CineStill,800T,800,120
+CineStill,800T,800,35mm
+CineStill,800T,800,4x5
+CineStill,BwXX,250,120
+CineStill,BwXX,250,35mm
+CineStill,Red Rum,200,120
+Cinema Shorts,BW 200,200,35mm
+Cinema Shorts,BW 3200,3200,35mm
+Cinema Shorts,Vision3 500T,500,35mm
+Cinema Shorts,Vision3 50D,50,35mm
+Efke,25,25,120
+Efke,25,25,35mm
+Efke,25,25,4x5
+Efke,50,50,120
+Efke,50,50,35mm
+Efke,50,50,4x5
+Efke,IR820,100,120
+Efke,IR820,100,35mm
+Efke,IR820,100,4x5
+FPP,BW 100,100,35mm
+FPP,Derev Pan 100,100,35mm
+FPP,Derev Pan 200,200,35mm
+FPP,Derev Pan 400,400,35mm
+FPP,Dracula,64,120
+FPP,Dracula,64,35mm
+FPP,Emulsion X,100,35mm
+FPP,Frankenstein,200,120
+FPP,Frankenstein,200,35mm
+FPP,Frankenstein,200,4x5
+FPP,Retrochrome 400,400,35mm
+FPP,Svema FN64,64,35mm
+FPP,Svema Foto 100,100,35mm
+FPP,Svema Foto 200,200,35mm
+FPP,Svema Foto 400,400,35mm
+FPP,The Mummy 400,400,120
+FPP,The Mummy 400,400,35mm
+FPP,The Mummy 400,400,4x5
+FPP,The Mummy 400,400,8x10
+FPP,Wolfman,100,120
+FPP,Wolfman,100,35mm
+FPP,X2,200,35mm
+Ferrania,Solaris 100,100,35mm
+Ferrania,Solaris 200,200,35mm
+Ferrania,Solaris 400,400,35mm
+Film Ferrania,Orto,50,35mm
+Film Ferrania,P30,80,35mm
+Film Ferrania,P33,160,35mm
+Film Washi,A,12,35mm
+Film Washi,D,500,35mm
+Film Washi,E,3,35mm
+Film Washi,F,100,35mm
+Film Washi,S,50,35mm
+Film Washi,V,25,35mm
+Film Washi,W,25,35mm
+Film Washi,W,25,120
+Film Washi,X,100,35mm
+Film Washi,Z,400,35mm
+Flic Film,Aurora 800,800,35mm
+Flic Film,Chrome,100,35mm
+Flic Film,Cine Color 200T,200,35mm
+Flic Film,Cine Color 250D,250,35mm
+Flic Film,Cine Color 500T,500,35mm
+Flic Film,Cine Color 50D,50,35mm
+Flic Film,Elektra 100,100,35mm
+Flic Film,UltraPan 100,100,120
+Flic Film,UltraPan 100,100,35mm
+Flic Film,UltraPan 200,200,120
+Flic Film,UltraPan 200,200,35mm
+Flic Film,UltraPan 400,400,120
+Flic Film,UltraPan 400,400,35mm
+Flic Film,Wolfen 100,100,35mm
+Flic Film,XX-250,250,35mm
+Foma,Fomapan 100 Classic,100,120
+Foma,Fomapan 100 Classic,100,35mm
+Foma,Fomapan 100 Classic,100,4x5
+Foma,Fomapan 100 Classic,100,5x7
+Foma,Fomapan 100 Classic,100,8x10
+Foma,Fomapan 200 Creative,200,120
+Foma,Fomapan 200 Creative,200,35mm
+Foma,Fomapan 200 Creative,200,5x7
+Foma,Fomapan 400 Action,400,120
+Foma,Fomapan 400 Action,400,35mm
+Foma,Fomapan 400 Action,400,4x5
+Foma,Fomapan 400 Action,400,5x7
+Foma,Fomapan 400 Action,400,8x10
+Foma,Fomapan Ortho 400,400,120
+Foma,Fomapan Ortho 400,400,35mm
+Foma,Fomapan Ortho 400,400,4x5
+Foma,Fomapan R 100,100,35mm
+Foma,Retropan 320 Soft,320,120
+Foma,Retropan 320 Soft,320,35mm
+Fujifilm,Astia 100F,100,120
+Fujifilm,Astia 100F,100,35mm
+Fujifilm,C200,200,35mm
+Fujifilm,FP-100C,100,Instant (Peel-apart)
+Fujifilm,FP-3000B,3000,Instant (Peel-apart)
+Fujifilm,Fujichrome T64,64,120
+Fujifilm,Fujichrome T64,64,35mm
+Fujifilm,Fujicolor 100,100,35mm
+Fujifilm,Fujicolor 200,200,35mm
+Fujifilm,Fujicolor Superia Premium 400,400,35mm
+Fujifilm,Fujifilm 200,200,35mm
+Fujifilm,Fujifilm 400,400,35mm
+Fujifilm,Instax Mini,800,Instax Mini
+Fujifilm,Instax Mini Monochrome,800,Instax Mini
+Fujifilm,Instax Square,800,Instax Square
+Fujifilm,Instax Wide,800,Instax Wide
+Fujifilm,Nexia 100,100,APS
+Fujifilm,Nexia 200,200,APS
+Fujifilm,Nexia 400,400,APS
+Fujifilm,Nexia 800,800,APS
+Fujifilm,NPH 400,400,120
+Fujifilm,NPH 400,400,35mm
+Fujifilm,NPS 160,160,120
+Fujifilm,NPS 160,160,35mm
+Fujifilm,Natura 1600,1600,35mm
+Fujifilm,Neopan 100 Acros,100,120
+Fujifilm,Neopan 100 Acros,100,35mm
+Fujifilm,Neopan 1600,1600,35mm
+Fujifilm,Neopan 400,400,120
+Fujifilm,Neopan 400,400,35mm
+Fujifilm,Neopan Acros 100 II,100,120
+Fujifilm,Neopan Acros 100 II,100,35mm
+Fujifilm,Pro 160NS,160,120
+Fujifilm,Pro 160NS,160,35mm
+Fujifilm,Pro 400H,400,120
+Fujifilm,Pro 400H,400,35mm
+Fujifilm,Provia 100F,100,120
+Fujifilm,Provia 100F,100,35mm
+Fujifilm,Provia 100F,100,4x5
+Fujifilm,Provia 100F,100,8x10
+Fujifilm,Reala 100,100,120
+Fujifilm,Reala 100,100,35mm
+Fujifilm,Sensia 100,100,35mm
+Fujifilm,Sensia 200,200,35mm
+Fujifilm,Superia 1600,1600,35mm
+Fujifilm,Superia 200,200,35mm
+Fujifilm,Superia 400,400,35mm
+Fujifilm,Superia 800,800,35mm
+Fujifilm,Superia X-TRA 400,400,35mm
+Fujifilm,Velvia 100,100,120
+Fujifilm,Velvia 100,100,35mm
+Fujifilm,Velvia 100,100,4x5
+Fujifilm,Velvia 100F,100,120
+Fujifilm,Velvia 100F,100,35mm
+Fujifilm,Velvia 50,50,120
+Fujifilm,Velvia 50,50,35mm
+Fujifilm,Velvia 50,50,4x5
+Harman,Phoenix 200,200,35mm
+Harman,Phoenix II 200,200,120
+Harman,Phoenix II 200,200,35mm
+Harman,Phoenix Red,200,35mm
+Harman,RED 125,125,120
+Harman,RED 125,125,35mm
+Holga,400,400,120
+Ilford,Delta 100,100,120
+Ilford,Delta 100,100,35mm
+Ilford,Delta 100,100,4x5
+Ilford,Delta 3200,3200,120
+Ilford,Delta 3200,3200,35mm
+Ilford,Delta 400,400,120
+Ilford,Delta 400,400,35mm
+Ilford,FP4 Plus,125,120
+Ilford,FP4 Plus,125,35mm
+Ilford,FP4 Plus,125,4x5
+Ilford,FP4 Plus,125,5x7
+Ilford,FP4 Plus,125,8x10
+Ilford,FP4 Plus,125,11x14
+Ilford,HP5 Plus,400,120
+Ilford,HP5 Plus,400,35mm
+Ilford,HP5 Plus,400,4x5
+Ilford,HP5 Plus,400,5x7
+Ilford,HP5 Plus,400,8x10
+Ilford,HP5 Plus,400,11x14
+Ilford,Ilfochrome 100,100,35mm
+Ilford,Ilfocolor 400 Cine Tone,400,35mm
+Ilford,Ilfocolor 400 Plus Vintage Tone,400,35mm
+Ilford,Ilfocolor 400 Vintage Tone,400,35mm
+Ilford,Ortho Plus,80,120
+Ilford,Ortho Plus,80,35mm
+Ilford,Ortho Plus,80,4x5
+Ilford,Ortho Plus,80,8x10
+Ilford,Pan F Plus,50,120
+Ilford,Pan F Plus,50,35mm
+Ilford,SFX 200,200,120
+Ilford,SFX 200,200,35mm
+Ilford,XP2 Super,400,120
+Ilford,XP2 Super,400,35mm
+Japan Camera Hunter,StreetPan 400,400,120
+Japan Camera Hunter,StreetPan 400,400,35mm
+KONO!,Alien 200,200,35mm
+KONO!,Color 200,200,35mm
+KONO!,Donau 6,6,35mm
+KONO!,Katz 200,200,35mm
+KONO!,Kolorit 125 Tungsten,125,35mm
+KONO!,Kolorit 400 Tungsten,400,35mm
+KONO!,Liebe 200,200,35mm
+KONO!,Luft 200,200,35mm
+KONO!,Monolit 400,400,35mm
+KONO!,Monolit 64,64,35mm
+KONO!,Rekorder 100,100,35mm
+KONO!,Rekorder 100-200,150,35mm
+KONO!,Rotwild 400,400,35mm
+KONO!,UFO 200,200,35mm
+KONO!,Wintermärchen 200,200,35mm
+Kentmere,Pan 100,100,120
+Kentmere,Pan 100,100,35mm
+Kentmere,Pan 200,200,120
+Kentmere,Pan 200,200,35mm
+Kentmere,Pan 400,400,120
+Kentmere,Pan 400,400,35mm
+Kodak,Aerochrome,400,120
+Kodak,Aerochrome,400,35mm
+Kodak,BW400CN,400,35mm
+Kodak,ColorPlus 200,200,35mm
+Kodak,Double-X 5222,250,35mm
+Kodak,E100G,100,120
+Kodak,E100G,100,35mm
+Kodak,E100VS,100,120
+Kodak,E100VS,100,35mm
+Kodak,Advantix 100,100,APS
+Kodak,Advantix 200,200,APS
+Kodak,Advantix 400,400,APS
+Kodak,E200,200,120
+Kodak,E200,200,35mm
+Kodak,Ektachrome 200,200,35mm
+Kodak,Ektachrome 400,400,35mm
+Kodak,Ektachrome 64,64,35mm
+Kodak,Ektachrome E100,100,120
+Kodak,Ektachrome E100,100,35mm
+Kodak,Ektachrome E100,100,4x5
+Kodak,Ektacolor Pro 160,160,35mm
+Kodak,Ektacolor Pro 160,160,120
+Kodak,Ektacolor Pro 400,400,35mm
+Kodak,Ektacolor Pro 400,400,120
+Kodak,Ektacolor Pro 800,800,35mm
+Kodak,Ektacolor Pro 800,800,120
+Kodak,Ektapan 100,100,35mm
+Kodak,Ektapan 100,100,120
+Kodak,Ektapan 400,400,35mm
+Kodak,Ektapan 400,400,120
+Kodak,Ektapan P3200,3200,35mm
+Kodak,Ektar 100,100,120
+Kodak,Ektar 100,100,35mm
+Kodak,Ektar 100,100,4x5
+Kodak,Ektar 100,100,5x7
+Kodak,Ektar 25,25,35mm
+Kodak,Elite Chrome 100,100,35mm
+Kodak,Elite Chrome 200,200,35mm
+Kodak,Elite Chrome 400,400,35mm
+Kodak,Gold 200,200,120
+Kodak,Gold 200,200,35mm
+Kodak,High Speed Infrared,400,35mm
+Kodak,Kodachrome 200,200,35mm
+Kodak,Kodachrome 25,25,35mm
+Kodak,Kodachrome 64,64,35mm
+Kodak,Kodacolor 100,100,35mm
+Kodak,Kodacolor 200,200,35mm
+Kodak,Kodacolor II,100,126
+Kodak,Verichrome Pan,125,126
+Kodak,Panatomic-X,32,35mm
+Kodak,Plus-X 125,125,35mm
+Kodak,Portra 160,160,120
+Kodak,Portra 160,160,35mm
+Kodak,Portra 160,160,4x5
+Kodak,Portra 160,160,5x7
+Kodak,Portra 400,400,120
+Kodak,Portra 400,400,35mm
+Kodak,Portra 400,400,4x5
+Kodak,Portra 400,400,5x7
+Kodak,Portra 400,400,8x10
+Kodak,Portra 400NC,400,120
+Kodak,Portra 400NC,400,35mm
+Kodak,Portra 400VC,400,120
+Kodak,Portra 400VC,400,35mm
+Kodak,Portra 800,800,120
+Kodak,Portra 800,800,35mm
+Kodak,Pro Image 100,100,35mm
+Kodak,T-MAX 100,100,120
+Kodak,T-MAX 100,100,35mm
+Kodak,T-MAX 100,100,4x5
+Kodak,T-MAX 400,400,120
+Kodak,T-MAX 400,400,35mm
+Kodak,T-MAX 400,400,4x5
+Kodak,T-MAX P3200,3200,35mm
+Kodak,Technical Pan,25,35mm
+Kodak,Tri-X 400,400,120
+Kodak,Tri-X 400,400,35mm
+Kodak,Tri-X 400,400,4x5
+Kodak,Tri-X 400,400,5x7
+Kodak,Tri-X 400,400,8x10
+Kodak,UltraMax 400,400,35mm
+Kodak,UltraMax 800,800,35mm
+Konica,Centuria 100,100,35mm
+Konica,Centuria 200,200,35mm
+Konica,Centuria 400,400,35mm
+Konica,Centuria 800,800,35mm
+Konica,VX 100,100,35mm
+Konica,VX 200,200,35mm
+Konica,VX 400,400,35mm
+Kosmo Foto,Agent Shadow 400,400,35mm
+Kosmo Foto,Mono 100,100,120
+Kosmo Foto,Mono 100,100,35mm
+Light Lens Lab,B&W Film,100,35mm
+Lomography,Babylon Kino 13,13,120
+Lomography,Babylon Kino 13,13,35mm
+Lomography,Berlin Kino 400,400,120
+Lomography,Berlin Kino 400,400,35mm
+Lomography,Color Negative 100,100,120
+Lomography,Color Negative 100,100,35mm
+Lomography,Color Negative 400,400,120
+Lomography,Color Negative 400,400,35mm
+Lomography,Color Negative 800,800,120
+Lomography,Color Negative 800,800,35mm
+Lomography,Color Tiger 200,200,110
+Lomography,Color Tiger 200,200,35mm
+Lomography,Earl Grey 100,100,120
+Lomography,Earl Grey 100,100,35mm
+Lomography,Fantome Kino 8,8,120
+Lomography,Fantome Kino 8,8,35mm
+Lomography,Lady Grey 400,400,120
+Lomography,Lady Grey 400,400,35mm
+Lomography,Lobster Redscale,200,110
+Lomography,LomoChrome Classicolor 200,200,35mm
+Lomography,LomoChrome Color 92,400,110
+Lomography,LomoChrome Color 92,400,120
+Lomography,LomoChrome Color 92,400,35mm
+Lomography,LomoChrome Color 92 Sun-kissed,400,110
+Lomography,LomoChrome Color 92 Sun-kissed,400,120
+Lomography,LomoChrome Color 92 Sun-kissed,400,35mm
+Lomography,LomoChrome Metropolis,400,120
+Lomography,LomoChrome Metropolis,400,35mm
+Lomography,LomoChrome Metropolis XR,200,110
+Lomography,LomoChrome Metropolis XR,200,120
+Lomography,LomoChrome Metropolis XR,200,35mm
+Lomography,LomoChrome Purple XR,400,110
+Lomography,LomoChrome Purple XR,400,120
+Lomography,LomoChrome Purple XR,400,35mm
+Lomography,LomoChrome Turquoise XR,400,110
+Lomography,LomoChrome Turquoise XR,400,120
+Lomography,LomoChrome Turquoise XR,400,35mm
+Lomography,Orca,100,110
+Lomography,Potsdam Kino 100,100,120
+Lomography,Potsdam Kino 100,100,35mm
+Lomography,Redscale XR,200,120
+Lomography,Redscale XR,200,35mm
+Lucky,C200,200,120
+Lucky,C200,200,35mm
+Lucky,SHD 100,100,120
+Lucky,SHD 100,100,35mm
+Lucky,SHD 400,400,120
+Lucky,SHD 400,400,35mm
+Optik Oldschool,Opticolour 200,200,120
+Optik Oldschool,Opticolour 200,200,35mm
+Oriental,Seagull 100,100,35mm
+Oriental,Seagull 400,400,35mm
+Original Wolfen,N 75,400,35mm
+Original Wolfen,NC 200,200,35mm
+Original Wolfen,NC 400,400,35mm
+Original Wolfen,NC 500,400,35mm
+Original Wolfen,NP 100,100,35mm
+Original Wolfen,P 400,250,35mm
+Original Wolfen,UN 54,100,120
+Original Wolfen,UN 54,100,35mm
+Polaroid,600 B&W,640,600
+Polaroid,600 Color,640,600
+Polaroid,Go Color,640,Go
+Polaroid,SX-70 B&W,160,SX-70
+Polaroid,SX-70 Color,160,SX-70
+Polaroid,Spectra,640,Spectra
+Polaroid,8x10 B&W,400,8x10
+Polaroid,8x10 Color,80,8x10
+Polaroid,Type 55,50,4x5
+Polaroid,i-Type B&W,640,i-Type
+Polaroid,i-Type Color,640,i-Type
+RETO,Amber 100,100,35mm
+RETO,Sora 400,400,35mm
+Rera,Chrome 100,100,127
+Rera,Cool 100,100,127
+Rera,Pan 100S,100,127
+Rera,Pan 400,400,127
+Revolog,460nm,200,35mm
+Revolog,600nm,200,35mm
+Revolog,Kolor,200,35mm
+Revolog,Nebula,200,35mm
+Revolog,Plexus,200,35mm
+Revolog,Streak,200,35mm
+Revolog,Tesla,200,35mm
+Revolog,Texture,200,35mm
+Revolog,Volvox,200,35mm
+Rollei,Blackbird Creative 200,200,35mm
+Rollei,Chrome CR200,200,35mm
+Rollei,Crossbird,200,35mm
+Rollei,Infrared 400,400,120
+Rollei,Infrared 400,400,35mm
+Rollei,Ortho 25 Plus,25,120
+Rollei,Ortho 25 Plus,25,35mm
+Rollei,RPX 100,100,120
+Rollei,RPX 100,100,35mm
+Rollei,RPX 25,25,120
+Rollei,RPX 25,25,35mm
+Rollei,RPX 400,400,120
+Rollei,RPX 400,400,35mm
+Rollei,Retro 400S,400,120
+Rollei,Retro 400S,400,35mm
+Rollei,Retro 80S,80,120
+Rollei,Retro 80S,80,35mm
+Rollei,Superpan 200,200,120
+Rollei,Superpan 200,200,35mm
+Rollei,Vario Chrome,200,35mm
+Santa,RAE 1000,1000,35mm
+Santa Color,100,100,35mm
+Shanghai,GP3 100,100,120
+Shanghai,GP3 100,100,35mm
+Shanghai,GP3 100,100,4x5
+Shanghai,GP3 100,100,8x10
+Shanghai,GP3 400,400,120
+Shanghai,GP3 400,400,35mm
+Silberra,Pan 100,100,120
+Silberra,Pan 100,100,35mm
+Silberra,Pan 160,160,120
+Silberra,Pan 160,160,35mm
+Silberra,Pan 50,50,120
+Silberra,Pan 50,50,35mm
+Silberra,Ultima 200,200,35mm
+Street Candy,ATM 400,400,35mm
+Ultrafine,Extreme 100,100,120
+Ultrafine,Extreme 100,100,35mm
+Ultrafine,Extreme 100,100,4x5
+Ultrafine,Extreme 400,400,120
+Ultrafine,Extreme 400,400,35mm
+Ultrafine,Extreme 400,400,4x5
+WonderPan,Retro 100,100,35mm
+Yodica,Andromeda 400,400,35mm
+Yodica,Pegasus 200,200,35mm
+Yodica,Polaris 400,400,35mm
+Yodica,Sirio 400,400,35mm
+dubblefilm,Apollo,200,35mm
+dubblefilm,Bubblegum,200,35mm
+dubblefilm,Daily,400,35mm
+dubblefilm,Daily Black & White,400,35mm
+dubblefilm,Daily Color,400,35mm
+dubblefilm,Cinema 800,800,35mm
+dubblefilm,GLITCH,200,35mm
+dubblefilm,Jelly,200,35mm
+dubblefilm,Pacific,200,35mm
+dubblefilm,Solar,200,35mm
+dubblefilm,Stereo,200,35mm

@@ -1,0 +1,29 @@
+{
+  "name": "film-photography-db",
+  "version": "1.0.0",
+  "description": "Open reference data for film photography: development labs, film stocks, and camera bodies.",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "homepage": "https://github.com/dmh221/film-photography-db#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmh221/film-photography-db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmh221/film-photography-db/issues"
+  },
+  "keywords": [
+    "film-photography",
+    "analog-photography",
+    "film-stocks",
+    "film-labs",
+    "camera",
+    "dataset",
+    "open-data",
+    "csv"
+  ],
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  }
+}
